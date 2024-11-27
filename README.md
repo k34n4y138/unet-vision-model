@@ -24,3 +24,9 @@ training setup requires data in the following format:
 ```
 Splitting data into subsets for training validation and testing is done using the ```get_dataloaders``` funtion as you set ratios for each subset.
 the ```datasets``` folder contains a script file with functions to convert yolo annotations to the required formats.
+
+## Metrics examples
+![Metrics plots](img/metrics.png)
+
+## Sample predictions
+![Sample predictions](img/predictions.png)

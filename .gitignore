@@ -1,0 +1,8 @@
+__pycache__
+datasets/*
+!datasets/*.py
+training/*
+venv
+.venv
+.virtualenv
+.vscode

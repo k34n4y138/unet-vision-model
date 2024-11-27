@@ -29,4 +29,4 @@ the ```datasets``` folder contains a script file with functions to convert yolo 
 ![Metrics plots](img/metrics.png)
 
 ## Sample predictions
-![Sample predictions](img/predictions.png)
+![Sample predictions](img/evaluation_epoch_700.png)
